@@ -1,0 +1,82 @@
+index:
+  banner_img: https://i.loli.net/2021/08/14/2CmZgEpVQzLFqMf.jpg
+  banner_img_height: 100
+post:
+  banner_img: https://i.loli.net/2021/08/14/j5BKhpRcUVb4wzk.jpg
+  banner_img_height: 80
+  default_index_img: https://i.loli.net/2021/08/14/J5AnQitNUmwLMrR.jpg
+archive:
+  banner_img: https://i.loli.net/2021/08/14/sM7AP6KHcQ1SDxZ.jpg
+  banner_img_height: 80
+category:
+  banner_img: https://i.loli.net/2021/08/15/B35WCIybfeuKciD.jpg
+  banner_img_height: 80
+tag:
+  banner_img: https://i.loli.net/2021/08/14/5ohfQuG37LkRH8K.jpg
+  banner_img_height: 80
+about:
+  banner_img: https://i.loli.net/2021/08/14/CVDt8x4yNQU1aKW.jpg
+  banner_img_height: 80
+links:
+  banner_img: https://i.loli.net/2021/08/15/P93eusDgUApfbrE.jpg
+  banner_img_height: 80
+  items:
+    - title: 'Hexo Docs'
+      intro: 'Hexo使用文档(中文)'
+      link: 'https://hexo.io/zh-cn/docs/'
+      avatar: '/img/custom_icons/Hexo_icon.png'
+
+    - title: 'Fluid Docs'
+      intro: 'Fluid 主题使用文档(永久感谢)'
+      link: 'https://hexo.fluid-dev.com/docs/'
+      avatar: '/img/favicon.png'
+
+    - title: 'Wallhaven'
+      intro: 精美ACG壁纸网站
+      link: 'https://wallhaven.cc'
+      avatar: '/img/avatar.png'
+
+    - title: 'Wallpaperhub'
+      intro: '高清精美壁纸网站'
+      link: 'https://wallpaperhub.app'
+      avatar: '/img/custom_icons/WPhub.png'
+
+    - title: Aplayer
+      intro: Wow, such a beautiful HTML5 music player
+      link: https://aplayer.js.org/#/zh-Hans/
+      avatar: https://i.loli.net/2021/09/17/hrEyZ4oIP8CHN65.png
+    
+    - title: Hexo-Fluid 页面动态效果优化
+      intro: 使用css/js引入的方法
+      link: https://blog.csdn.net/weixin_43471926/article/details/109798811
+      avatar: '/img/custom_icons/JianD.png'
+    
+    - title: Gene
+      intro: 机器学习，算法，人工智能
+      link: 'https://blog.csdn.net/qq_41552508'
+      avatar: '/img/custom_icons/JianD.png' 
+
+    - title: Wyboooo
+      intro: 低维视觉
+      link: 'https://www.cnblogs.com/wyboooo'
+      avatar: '/img/custom_icons/cnblog.png' 
+
+    - title: 小丁的个人博客
+      intro: 世间所有的相遇，都是久别重逢
+      link: https://tding.top
+      avatar: https://tding.top/images/avatar.webp
+
+    - title: 米奇妙妙屋
+      intro: 逐风揽月登九天 踏浪擒龙游四海
+      link: https://ifibe.com/
+      avatar: https://cdn.jsdelivr.net/gh/useblue/ucdn/imgs/avatar.webp
+
+    - title: 荷戟独彷徨
+      intro: 爱光学，爱生活，爱创造
+      link: https://guanqr.com/
+      avatar: https://cdn.jsdelivr.net/gh/guanqr/blog/static/icons/android-chrome-512x512.png
+
+    - title: iMaeGoo’s Blog
+      intro: 虹墨空间站
+      link: https://www.imaegoo.com
+      avatar: https://www.imaegoo.com/images/avatar.jpg
