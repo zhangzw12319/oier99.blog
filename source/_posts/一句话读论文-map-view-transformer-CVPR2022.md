@@ -13,14 +13,13 @@ mermaid: true
 excerpt: 巧妙利用地图信息做自动驾驶场景下RV和BeV的融合
 ---
 
+# Cross-view Transformers for real-time Map-view Semantic Segmentation(CVPR 2022)[1]
+
 > 论文标题：Cross-view Transformers for real-time Map-view Semantic Segmentation(CVPR 2022)<br>
 > 论文地址：[https://arxiv.org/abs/2205.02833](https://arxiv.org/abs/2205.02833)<br>
 > 作者单位：The Chinese University of Hong Kong<br>
 > 代码地址：[https://github.com/bradyz/ cross_view_transformers<br>](https://github.com/bradyz/ cross_view_transformers)
 > 一句话读论文：Our architecture implicitly learns a mapping from individual camera views into a canonical map-view representation using a camera-aware cross-view attention mechanism. 
-
-# Cross-view Transformers for real-time Map-view Semantic Segmentation(CVPR 2022)[1]
-
 
 ## 网络框架：
 
@@ -51,7 +50,7 @@ $$
 
 > 几何意义：The uprojected image coordinate $d_{k,i} = R_k^{-1} K_k^{-1 }x_i^{(I)} $ for each image coordinate $x_i^{(I)}$ described a direction vector from the origin $t_k$ of camera $k$ to the image plane at depth 1.
 >
-> 代码实现：1)We encode this direction vector $ d_{k,i} $ using an MLP(shared across k views) into a D-dimensional positional embedding $\delta_{k,i} \in \mathbb{R}^D$... We combine this positional embedding with image features $\phi_{k,i}$ in the keys of our cross-view attention mechanism.
+> 代码实现：1)We encode this direction vector $d_{k,i}$ using an MLP(shared across k views) into a D-dimensional positional embedding $\delta_{k,i} \in \mathbb{R}^D$... We combine this positional embedding with image features $\phi_{k,i}$ in the keys of our cross-view attention mechanism.
 >
 > 2)$x^{W}$ 从地图获得，没有高度信息怎么办：We start with a learned positional encoding $c^{(0)}\in \mathbb{R}^{w \times h \times D}$. We build the map-view representation up over multiple iterations in our transformer... Each positional embedding is better able to project the map-view coordinates into a proxy of the 3D environment.
 

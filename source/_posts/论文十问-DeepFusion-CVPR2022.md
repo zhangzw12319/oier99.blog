@@ -13,15 +13,13 @@ mermaid: true
 excerpt: 数据增强与多模态融合历来是提升模型表现性能的两大重要手段。但是在自动驾驶场景下，LiDAR点云模态与RGB图像模态分别进行数据增强后会破坏两者间原有的几何对应关系，造成特征网络无法有效学习到一致的区域，从而造成性能损失。本文着力解决二者的inconsistency问题。
 ---
 
-> 论文标题：DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection
-> 论文地址：[https://arxiv.org/abs/2203.08195](https://arxiv.org/abs/2203.08195)
-> 作者单位：Johns Hopkins University, Google
-> 代码地址：[https://github.com/tensorflow/lingvo](https://github.com/tensorflow/lingvo)
-> 一句话读论文：This study points out the key role of transformed feature alignment process that plays in multi-modal fusion module, and thus proposes InverseAug and LearnableAlign module to overcome incosistency between data augmentation and multi-modal fusion.
-
 # DeepFusion(CVPR 2022)
 
-
+> 论文标题：DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection<br>
+> 论文地址：[https://arxiv.org/abs/2203.08195](https://arxiv.org/abs/2203.08195)<br>
+> 作者单位：Johns Hopkins University, Google<br>
+> 代码地址：[https://github.com/tensorflow/lingvo](https://github.com/tensorflow/lingvo)<br>
+> 一句话读论文：This study points out the key role of transformed feature alignment process that plays in multi-modal fusion module, and thus proposes InverseAug and LearnableAlign module to overcome incosistency between data augmentation and multi-modal fusion.
 
 ## Q1
 

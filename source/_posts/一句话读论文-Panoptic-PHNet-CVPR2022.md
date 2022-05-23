@@ -14,10 +14,10 @@ excerpt: NeRF首次闯入自动驾驶领域，而且要来就要来个大的。
 
 #  PNF(CVPR 2022)
 
-> 论文标题：Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation(CVPR 2022)
-> 论文地址：[https://arxiv.org/abs/2205.04334](https://arxiv.org/abs/2205.04334)
-> 作者单位：Google Research, Georgia Tech, Simon Fraser University, Stanford University
-> 代码地址：暂无
+> 论文标题：Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation(CVPR 2022)<br>
+> 论文地址：[https://arxiv.org/abs/2205.04334](https://arxiv.org/abs/2205.04334)<br>
+> 作者单位：Google Research, Georgia Tech, Simon Fraser University, Stanford University<br>
+> 代码地址：暂无<br>
 > 一句话读论文："We present Panoptic Neural Fields(PMF), and object-aware neural scene representation that decomposes a scene into a set of objects(things) and background(stuff)."
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="///music.163.com/outchain/player?type=2&id=22707001&auto=0&height=66"></iframe>

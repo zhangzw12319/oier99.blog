@@ -238,6 +238,12 @@ post:
     enable: true
     specific: true
     engine: mathjax
+  # 设置版权为CC BY-NC-SA
+  copyright:
+    enable: true
+    license: 'BY-NC-SA'
+  prev_next:
+    enable: true
 
 #---------------------------
 # 关于我

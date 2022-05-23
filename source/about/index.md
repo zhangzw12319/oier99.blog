@@ -1,5 +1,6 @@
 ---
-title: about
+title: About me
+subtitle: About me...
 date: 2021-07-28 09:43:15
 layout: about
 ---
@@ -55,5 +56,21 @@ Some see shadow from light, while others see light from darkness.
 我慢慢认识到，并且勇于直面残酷而又美丽的现实。
 
 人生中有时无法确保能得到什么，但是能相信自己选择什么，坚持什么。
+
+{% endnote %}
+
+
+
+{% note primary %}
+
+2022.05.24
+
+疫情之下，被困近三个月。
+
+还好有你的日子，生活明亮不少。
+
+我们还要一起，继续攀登那长长的坡道。
+
+希望下半年能更顺利一些，我们都早日到达愿望实现之所！
 
 {% endnote %}

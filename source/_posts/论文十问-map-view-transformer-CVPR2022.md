@@ -12,12 +12,13 @@ excerpt: 巧妙利用地图信息做自动驾驶场景下RV和BeV的融合。
 
 ---
 
-> 论文标题：Cross-view Transformers for real-time Map-view Semantic Segmentation(CVPR 2022)
-> 论文地址：[https://arxiv.org/abs/2205.02833](https://arxiv.org/abs/2205.02833)
-> 作者单位：The Chinese University of Hong Kong
-> 代码地址：[https://github.com/bradyz/ cross_view_transformers](https://github.com/bradyz/ cross_view_transformers)
-> 一句话读论文：Our architecture implicitly learns a mapping from individual camera views into a canonical map-view representation using a camera-aware cross-view attention mechanism.
 # Cross-view Transformers for real-time Map-view Semantic Segmentation(CVPR 2022)[2]
+
+> 论文标题：Cross-view Transformers for real-time Map-view Semantic Segmentation(CVPR 2022)<br>
+> 论文地址：[https://arxiv.org/abs/2205.02833](https://arxiv.org/abs/2205.02833)<br>
+> 作者单位：The Chinese University of Hong Kong<br>
+> 代码地址：[https://github.com/bradyz/cross_view_transformers](https://github.com/bradyz/cross_view_transformers)<br>
+> 一句话读论文：Our architecture implicitly learns a mapping from individual camera views into a canonical map-view representation using a camera-aware cross-view attention mechanism.
 
 ## Q1
 
