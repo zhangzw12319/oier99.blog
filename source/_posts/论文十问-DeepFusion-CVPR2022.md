@@ -5,7 +5,7 @@ index_img: https://s2.loli.net/2022/05/24/ISACMOZynhfdwYv.jpg
 banner_img: https://s2.loli.net/2022/05/24/eq9zvxbYNaPl3mL.png
 categories:
 - [论文阅读, 点云, 多模态融合, 2022]
-tags: [论文十问系列, CVPR2022, 多模态，目标检测]
+tags: [论文十问系列, CVPR2022, 多模态，点云目标检测]
 author: Yuki.N
 comment: true
 math: true

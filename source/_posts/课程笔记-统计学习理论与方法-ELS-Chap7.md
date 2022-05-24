@@ -1,8 +1,8 @@
 ---
 title: 课程笔记-统计学习理论与方法-ELS-Chap7
 date: 2021-11-11 00:32:57
-index_img: https://i.loli.net/2021/09/30/tfhTo6NrOJKRikm.jpg
-banner_img: https://i.loli.net/2021/09/30/tfhTo6NrOJKRikm.jpg
+index_img: https://s2.loli.net/2022/05/24/gj1KrBTkzFVhZ6o.png
+banner_img: https://s2.loli.net/2022/05/24/gj1KrBTkzFVhZ6o.png
 categories: 
 - [课程笔记, 统计学习理论与方法]
 - [教材笔记, Elements of Statistical Learning]

@@ -1,9 +1,11 @@
 ---
 title: 论文十问:Map-view Transformer(CVPR2022)
+index_img: https://s2.loli.net/2022/05/24/LDeCqp1Rl86HTuz.jpg
+banner_img: https://s2.loli.net/2022/05/24/LDeCqp1Rl86HTuz.jpg
 date: 2022-05-24 03:05:27
 categories:
 - [论文阅读, 点云, 多模态融合, 2022]
-tags: [一句话读论文系列, CVPR2022, 点云全景分割]
+tags: [一句话读论文系列, CVPR2022, 点云语义分割]
 author: Yuki.N
 comment: true
 math: true
